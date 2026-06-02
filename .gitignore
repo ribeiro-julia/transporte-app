@@ -1,0 +1,7 @@
+
+# JavaFX SDK (muito grande)
+javafx-sdk-*/
+lib/javafx-sdk-*/
+*.so
+*.dll
+*.dylib
